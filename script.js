@@ -1,0 +1,1 @@
+alert("javaScript is my AIM in life")
